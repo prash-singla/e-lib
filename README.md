@@ -1,4 +1,4 @@
 e-lib
 =====
 
-Online Library
+Online Library for students
